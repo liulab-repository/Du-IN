@@ -1,0 +1,7 @@
+# file
+*.sh
+
+# dir
+/__pycache__
+/__image__
+

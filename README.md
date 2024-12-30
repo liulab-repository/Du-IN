@@ -14,7 +14,7 @@ Invasive brain-computer interfaces with Electrocorticography (ECoG) have shown p
 ## Environment Setup
 Install required packages:
 ```
-conda create env -f environment-torch.yml
+conda env create -f environment-torch.yml
 conda activate brain2vec-torch
 ```
 
